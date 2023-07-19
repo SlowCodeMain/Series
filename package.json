@@ -1,7 +1,6 @@
 {
   "name": "serie",
-  "homepage": "https://SlowCodeMain.github.io/Series"
-  ",
+  "homepage": "https://SlowCodeMain.github.io/Series",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
